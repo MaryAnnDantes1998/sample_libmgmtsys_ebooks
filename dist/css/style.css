@@ -1,0 +1,34 @@
+@font-face {
+	font-family: Rt;
+	src: url('../../fonts/Roboto-ThinItalic.ttf');
+	
+
+}
+@font-face {
+	
+	font-family: Ry;
+	src: url('../../fonts/Roboto-Bold.ttf');
+
+}
+@font-face {
+	
+	font-family: Rr;
+	src: url('../../fonts/Roboto-Regular.ttf');
+
+}section ul li a {
+	font-family: Rt;
+}
+section ul li {
+	font-family: Rt;
+}
+thead th {
+	font-family: Ry;
+}
+
+td {
+	font-family: Rr;
+}
+
+section h3,section h4 {
+	font-family: Rt;
+}
